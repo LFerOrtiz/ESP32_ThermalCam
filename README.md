@@ -1,5 +1,5 @@
+<img src="img/thermal_cam.JPG" title="thermal cam" width="500">
 
-![](img/thermal_cam.JPG)
 # ESP32_ThermalCam
 
 A simple thermal camera based on the MLX90640 and ESP32, using a TFT display with ILI9341 driver.
