@@ -6,4 +6,6 @@ This fork incorporates some changes:
 * Added comments to the MLX90640 libraries.
 * Displayed MLX90640 sensor configuration and status parameters at program startup on the screen.
 
-Inspired and partially used code from http://stoppi-homemade-physics.de/waermebildkamera/ and https://github.com/sparkfun/SparkFun_MLX90640_Arduino_Example
+Inspired and partially used code from:
+* http://stoppi-homemade-physics.de/waermebildkamera/
+* https://github.com/sparkfun/SparkFun_MLX90640_Arduino_Example
